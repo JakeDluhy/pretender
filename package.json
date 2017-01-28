@@ -36,6 +36,7 @@
   "dependencies": {
     "fetchme": "^2.0.0",
     "route-recognizer": "^0.1.9",
-    "xhr-pretender": "^1.4.0"
+    "xhr-pretender": "^1.4.0",
+    "url": "^0.11.0"
   }
 }
